@@ -1,0 +1,1049 @@
+body {
+  background-image: url(img/download\ \(3\).jpeg );
+  background-size: 100%;
+  color: rgb(255, 255, 255);
+  
+}
+  
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #ffffffee;
+}
+.bemv {
+  margin: 5%;
+  margin-block-start: 2%;
+}
+.bemv ul{
+  display: flex;
+  list-style-type: none;
+  padding-left: 2%;
+}
+.bemvbackg {
+  background-color: rgba(75, 75, 75, 0.5) ;
+}
+li {
+  margin: 3%;
+}
+.inicio {
+  display:flex ;
+  margin-top: 7%;
+}
+.georgelink {
+  color: #ffdc90;
+}
+
+h1 {
+  font-family: "Cinzel Decorative", serif;
+  text-shadow: 4px 4px 6px #faa301;
+  font-size: 75px;
+  margin-top: 15%;
+  margin-bottom: -2%;
+}
+
+#introducao {
+  font-size: 20px;
+  line-height: 1.7;
+  text-align: center;
+  margin-top: -10%;
+}
+
+.series{
+  font-family: "Cinzel Decorative", serif;
+  text-shadow: 4px 4px 6px #faa301;
+  font-size: 95px;
+  margin-top: 15%;
+  margin-bottom: 7%;
+  text-align: center;
+}
+
+
+
+#got {
+  background-image: url(fundo.jpg) ;
+  background-size: 100%;
+  text-align: center;
+  color: rgb(53, 36, 14);
+  margin: 10%;
+}
+#got p {
+  font-size: 20px;
+}
+.gotlogo {
+  padding: 17%;
+  margin-top: -20%;
+}
+ 
+.gotsinop {
+  margin-top: -25%;
+  font-size: 23px;
+  line-height: 1.5;
+  margin-bottom: 15%;
+}
+.gotsinop h3 {
+  margin-top: 10%;
+  margin-bottom: 2%;
+}
+
+h3 {
+  color: rgb(255, 255, 255);
+  font-family: "Cinzel Decorative", serif;
+  text-shadow: 4px 4px 6px #fa7901c0;
+  font-size: 45px;
+}
+
+.daenerys {
+  font-size: 20px;
+  margin: 5%;
+  margin-bottom: 12%;
+}
+.daenerys h4 {
+  margin-bottom: -2%;
+  font-size: 14px;
+  font-weight: lighter;
+}
+.daenerys p {
+  font-weight:bold;
+  font-size: 15px;
+}
+.daefra {
+  text-align: center;
+  margin-top: 2%;
+}
+.daebio {
+  display: flex;
+  gap: 5%;
+  margin-top: 3%;
+}
+.daeimg{
+  align-items: center;
+}
+.daeactor {
+  flex-direction: column;
+}
+.daecasa {
+  flex-direction: column;
+}
+.daefamilia p a {
+  flex-direction: column;
+  font-size: 15px;
+}
+.daetitulos {
+  flex-direction: column;
+}
+.daefra p i{
+  font-size: 23px;
+}
+
+
+
+.jonsnow {
+  font-size: 20px;
+  margin: 5%;
+  margin-bottom: 12%;
+}
+.jonsnow h4{
+  margin-bottom: -2%;
+  font-size: 14px;
+  font-weight: lighter;
+}
+.jonsnow p {
+  font-weight:bold;
+  font-size: 15px;
+}
+.jonsfra {
+  text-align: center;
+  margin-top: 2%;
+}
+.jonsbio {
+  display: flex;
+  gap: 5%;
+  margin-top: 3%;
+}
+.jonimg {
+  align-items: center;
+}
+.jonsactor {
+  flex-direction: column;
+}
+.jonscasa {
+  flex-direction: column;
+}
+.jonsfamilia p a{
+  flex-direction: column;
+  font-size: 15px;
+}
+.jonstitulos {
+  flex-direction: column;
+}
+.jonsfra p i{
+  font-size: 23px;
+}
+
+
+.ned {
+  font-size: 20px;
+  margin: 5%;
+  margin-bottom: 12%;
+}
+.ned h4{
+  margin-bottom: -2%;
+  font-size: 14px;
+  font-weight: lighter;
+}
+.ned p {
+  font-weight:bold;
+  font-size: 15px;
+}
+.nedfra {
+  text-align: center;
+  margin-top: 2%;
+}
+.nedbio {
+  display: flex;
+  gap: 5%;  
+  margin-top: 3%;
+}
+.nedimg {
+  align-items: center;
+}
+.nedactor {
+  flex-direction: column;
+}
+.nedcasa {
+  flex-direction: column;
+}
+.nedfamilia p a {
+  flex-direction: column;
+  font-size: 15px;
+}
+.nedtitulos {
+  flex-direction: column;
+}
+.nedfra p i{
+  font-size: 23px;
+}
+
+
+
+.sansa {
+  font-size: 20px;
+  margin: 5%;
+  margin-bottom: 12%;
+}
+.sansa h4{
+  margin-bottom: -2%;
+  font-size: 14px;
+  font-weight: lighter;
+}
+.sansa p {
+  font-weight:bold;
+  font-size: 15px;
+}
+.sansafra {
+  text-align: center;
+  margin-top: 2%;
+}
+.sansabio {
+  display: flex;
+  gap: 5%;
+  margin-top: 3%;
+}
+.sansaimg {
+  align-items: center;
+}
+.sansaactor {
+  flex-direction: column;
+}
+.sansacasa {
+  flex-direction: column;
+}
+.sansafamilia p a{
+  flex-direction: column;
+  font-size: 15px;
+}
+.sansatitulos {
+  flex-direction: column;
+}
+.sansafra p i{
+  font-size: 23px;
+}
+
+
+
+.arya {
+  font-size: 20px;
+  margin: 5%;
+  margin-bottom: 12%;
+}
+.aryajpeg {
+  margin-top: 5%;
+}
+.arya h4{
+  margin-bottom: -2%;
+  font-size: 14px;
+  font-weight: lighter;
+}
+.arya p {
+  font-weight:bold;
+  font-size: 15px;
+}
+.aryafra {
+  text-align: center;
+  margin-top: 2%;
+}
+.aryabio {
+  display: flex;
+  gap: 5%;
+  margin-top: 3%;
+}
+.aryaimg {
+  align-items: center;
+}
+.aryaactor {
+  flex-direction: column;
+}
+.aryacasa {
+  flex-direction: column;
+}
+.aryafamilia p a{
+  flex-direction: column;
+  font-size: 15px;
+}
+.aryatitulos {
+  flex-direction: column;
+}
+.aryafra p i{
+  font-size: 23px;
+}
+
+
+
+.tyrion {
+  font-size: 20px;
+  margin: 5%;
+  margin-bottom: 12%;
+}
+.tyrion h4 {
+  margin-bottom: -2%;
+  font-size: 14px;
+  font-weight: lighter;
+}
+.tyrion p {
+  font-weight:bold;
+  font-size: 15px;
+}
+.tyrionfra {
+  text-align: center;
+  margin-top: 2%;
+}
+.tyrionbio {
+  display: flex;
+  gap: 5%;
+  margin-top: 3%;
+}
+.tyrionimg {
+  align-items: center;
+}
+.tyrionactor {
+  flex-direction: column;
+}
+.tyrioncasa {
+  flex-direction: column;
+}
+.tyrionfamilia p a {
+  flex-direction: column;
+  font-size: 15px;
+}
+.tyriontitulos {
+  flex-direction: column;
+}
+.tyrionfra p i{
+  font-size: 23px;
+}
+
+
+.cersei {
+  font-size: 20px;
+  margin: 5%;
+  margin-bottom: 12%;
+}
+.cersei h4 {
+  margin-bottom: -2;
+  font-size: 14px;
+  font-weight: lighter;
+}
+.cersei p {
+  font-weight:bold;
+  font-size: 15px;
+}
+.cerseifra {
+  text-align: center;
+  margin-top: 2%;
+}
+.cerseibio {
+  display: flex;
+  gap: 5%;
+  margin-top: 3%;
+}
+cerseiimg {
+  align-items: center
+}
+.cerseiactor {
+  flex-direction: column;
+}
+.cerseicasa {
+  flex-direction: column;
+}
+.cerseifamilia p a{
+  flex-direction: column;
+  font-size: 15px;
+}
+.cerseititulos {
+  flex-direction: column;
+}
+.cerseifra p i{
+  font-size: 23px;
+}
+
+
+
+
+
+
+#hotd {
+  background-image: url(fundo.jpg) ;
+  background-size: 100%;
+  text-align: center;
+  color: rgb(53, 36, 14);
+  margin: 10%;
+}
+#hotd p {
+  font-size: 20px;
+}
+.hotdlogo {
+  padding: 17%; 
+  margin-top: -10%; 
+}
+ 
+.hotdsinop {
+  margin-top: -15%;
+  font-size: 23px;
+  line-height: 1.5;
+  margin-bottom: 15%;
+}
+.hotdsinop h3 {
+  margin-top: 10%;
+  margin-bottom: 2%;
+}
+.pershotd h3 {
+  margin-top: 100px;
+  font-size: 50px;
+  margin-bottom: 70px;
+}
+.nyra {
+  font-size: 20px;
+  margin: 5%;
+  margin-bottom: 12%;
+}
+.nyra h4 {
+  margin-bottom: -2%;
+  font-size: 14px;
+  font-weight: lighter;
+}
+.nyra p {
+  font-weight:bold;
+  font-size: 15px;
+}
+.nyrafra {
+  text-align: center;
+  margin-top: 2%;
+}
+.nyrabio {
+  display: flex;
+  gap: 5%;
+  margin-top: 3%;
+}
+.nyraimg{
+  align-items: center;
+}
+.nyraactor {
+  flex-direction: column;
+}
+.nyracasa {
+  flex-direction: column;
+}
+.nyratime {
+ flex-direction: column;
+}
+.nyradragao {
+  flex-direction: column;
+}
+.nyrafamilia p a{
+  flex-direction: column;
+  font-size: 15px;
+}
+.nyratitulos {
+  flex-direction: column;
+}
+.nyrafra p i{
+  font-size: 23px;
+}
+
+
+
+.aegon {
+  font-size: 20px;
+  margin: 5%;
+  margin-bottom: 12%;
+}
+.aegon h4 {
+  margin-bottom: -2%;
+  font-size: 14px;
+  font-weight: lighter;
+}
+.aegon p {
+  font-weight:bold;
+  font-size: 15px;
+}
+.aegonfra {
+  text-align: center;
+  margin-top: 2%;
+}
+.aegonbio {
+  display: flex;
+  gap: 5%;
+  margin-top: 3%;
+}
+.aegonimg {
+  align-items: center
+}
+.aegonactor {
+  flex-direction: column;
+}
+.aegoncasa {
+  flex-direction: column;
+}
+.aegonfamilia p a{
+  flex-direction: column;
+  font-size: 15px;
+}
+.aegontitulos {
+  flex-direction: column;
+}
+.aegonfra p i{
+  font-size: 23px;
+}
+
+
+
+
+
+.daemon {
+  font-size: 20px;
+  margin: 5%;
+  margin-bottom: 12%;
+}
+.daemon h4 {
+  margin-bottom: -2%;
+  font-size: 14px;
+  font-weight: lighter;
+}
+.daemon p {
+  font-weight:bold;
+  font-size: 15px;
+}
+.daemonfra {
+  text-align: center;
+  margin-top: 2%;
+}
+.daemonbio {
+  display: flex;
+  gap: 5%;
+  margin-top: 3%;
+}
+.daemonimg {
+  align-items: center;
+}
+.daemonactor {
+  flex-direction: column;
+}
+.daemoncasa {
+  flex-direction: column;
+}
+.daemonfamilia p a{
+  flex-direction: column;
+  font-size: 15px;
+}
+.daemontitulos {
+  flex-direction: column;
+}
+.daemonfra p i{
+  font-size: 23px;
+}
+
+
+
+.rhaenys {
+  font-size: 20px;
+  margin: 5%;
+  margin-bottom: 12%;
+}
+.rhaenys h4 {
+  margin-bottom: -2%;
+  font-size: 14px;
+  font-weight: lighter;
+}
+.rhaenys p {
+  font-weight:bold;
+  font-size: 15px;
+}
+.rhaenysfra {
+  text-align: center;
+  margin-top: 2%;
+}
+.rhaenysbio {
+  display: flex;
+  gap: 5%; 
+  margin-top: 3%;
+}
+.rhaenysimg {
+  align-items: center;
+}
+.rhaenysactor {
+  flex-direction: column;
+}
+.rhaenyscasa {
+  flex-direction: column;
+}
+.rhaenysfamilia p a{
+  flex-direction: column;
+  font-size: 15px;
+}
+.rhaenystitulos {
+  flex-direction: column;
+}
+.rhaenysfra p i{
+  font-size: 23px;
+}
+
+
+
+.ali {
+  font-size: 20px;
+  margin: 5%;
+  margin-bottom: 12%;
+}
+.ali h4 {
+  margin-bottom: -2%;
+  font-size: 14px;
+  font-weight: lighter;
+}
+.ali p {
+  font-weight:bold;
+  font-size: 15px;
+}
+.alifra {
+  text-align: center;
+  margin-top: 2%;
+}
+.alibio {
+  display: flex;
+  gap: 5%; 
+  margin-top: 3%;
+}
+.aliimg {
+  align-items: center;
+}
+.aliactor {
+  flex-direction: column;
+}
+.alicasa {
+  flex-direction: column;
+}
+.alifamilia p a{
+  flex-direction: column;
+  font-size: 15px;
+}
+.alititulos {
+  flex-direction: column;
+}
+.alifra p i{
+  font-size: 23px;
+}
+
+
+
+.vise {
+  font-size: 20px;
+  margin: 5%;
+  margin-bottom: 12%;
+}
+.vise h4 {
+  margin-bottom: -2%;
+  font-size: 14px;
+  font-weight: lighter;
+}
+.vise p {
+  font-weight:bold;
+  font-size: 15px;
+}
+.visefra {
+  text-align: center;
+  margin-top: 2%;
+}
+.visebio {
+  display: flex;
+  gap: 5%; 
+  margin-top: 3%;
+}
+.viseimg {
+  align-items: center;
+}
+.viseactor {
+  flex-direction: column;
+}
+.visecasa {
+  flex-direction: column;
+}
+.visefamilia p a{
+  flex-direction: column;
+  font-size: 15px;
+}
+.visetitulos {
+  flex-direction: column;
+}
+.visefra p i{
+  font-size: 23px;
+}
+
+
+
+.otto {
+  font-size: 20px;
+  margin: 5%;
+  margin-bottom: 12%;
+}
+.otto h4 {
+  margin-bottom: -2%;
+  font-size: 14px;
+  font-weight: lighter;
+}
+.otto p {
+  font-weight:bold;
+  font-size: 15px;
+}
+.ottofra {
+  text-align: center;
+  margin-top: 2%;
+}
+.ottobio {
+  display: flex;
+  gap: 5%; 
+  margin-top: 3%;
+}
+.ottoimg {
+  align-items: center;
+}
+.ottoactor {
+  flex-direction: column;
+}
+.ottocasa {
+  flex-direction: column;
+}
+.ottofamilia p a{
+  flex-direction: column;
+  font-size: 15px;
+}
+.ottotitulos {
+  flex-direction: column;
+}
+.ottofra p i{
+  font-size: 23px;
+}
+
+.famtree a {
+  font-size: 40px;
+  color: #ff371d;
+  margin-bottom: 100px;
+}
+.famtree {
+  margin-bottom: 100px;
+  
+}
+
+
+
+
+
+
+
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #ff000085;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgb(247, 151, 42);
+  z-index: 1;
+  border-radius: 5px;
+}
+
+.dropdown-content a {
+  color: rgb(255, 255, 255);
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #690000;
+}
+
+h4{
+  margin-bottom: -10px;
+}
+
+p {
+  margin-bottom: 0px;
+}
+
+
+#dragoes h1 {
+  text-align: center;
+}
+
+#dragoes h3 {
+  text-align: center;
+  margin-top: 7%;
+}
+
+#dragoes p {
+  font-size: 25px;
+  text-align: center;
+}
+.dragdae{
+  font-size: 23px;
+}
+
+.dragdae h4{
+  margin-top: 2%;
+  margin-bottom: 10%;
+  text-align: center;
+  
+}
+
+.contdragdae {
+  display: flex;
+  justify-content: space-between ;
+  margin-bottom: 200%;
+  margin: 5%;
+}
+.dragdae h4 {
+  font-size: 30px;
+  color:rgb(255, 192, 120) ;
+}
+.dragtarg {
+  display: flex;
+  margin-top: 5%;
+  margin-bottom: 20%;
+}
+.dragdae a img {
+  box-shadow: 10px 10px 15px#ffd078;
+}
+.dragtarg img {
+  border: 15px solid #faa30170;
+  margin-left: 10%;
+}
+.dragtarg a {
+  color: #1d6cff;
+  font-size: 20px;
+  text-decoration: none;
+  line-height: 2;
+}
+.dragonindex {
+  padding: 20%;
+  font-size: 40px;
+  color: #ffb71d;
+}
+
+#casas p {
+  font-size: 25px;
+  margin-top: 7%;
+  text-align: center;
+}
+#casas h1 {
+  text-align: center;
+  margin-top: 20%;
+  margin-bottom: -5%;
+}
+.casasx h5 {
+  font-size: 20px;
+}
+.casasy h5 {
+  font-size: 20px;
+}
+.casasz h5 {
+  font-size: 20px;
+}
+.contcasasx {
+  display: flex;
+  justify-content: space-between ;
+  margin-bottom: 5%;
+  margin-top: 5%;
+  margin-left: 20%;
+}
+.imgcasa {
+  display: flex;
+}
+
+.contcasasy {
+  display: flex;
+  justify-content: space-between ;
+  margin-bottom: 5%;
+  margin-top: 5%;
+  margin-left: 20%;
+}
+.contcasasz {
+  display: flex;
+  justify-content: space-between ;
+  margin-bottom: 5%;
+  margin-top: 5%;
+  margin-left: 20%;
+}
+#reinos h1 {
+  text-align: center;
+}
+.reinos {
+  text-align: center;
+}
+.reinos {
+  margin-top: 5%;
+}
+.reinos h3 {
+  margin-bottom: 10px;
+}
+.reinos p {
+  margin-bottom: 7%;
+  font-size: 25px;
+}
+.imgreinos {
+  border: 10px solid #faa30170;
+}
+.mapawest {
+  font-size: 25px;
+}
+
+.mapawest h1 {
+  text-align: center;
+  margin-top: 5%;
+}
+.mapawest p {
+  text-align: center;
+}
+.mapawest a {
+  font-size: 40px;
+  color: #ffb71d;
+  padding: 20%;
+}
+
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #ff000085;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgb(247, 151, 42);
+  z-index: 1;
+  border-radius: 5px;
+}
+
+.dropdown-content a {
+  color: rgb(255, 255, 255);
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #690000;
+}
+
+
+
+#livros {
+  margin: 10%;
+  margin-top: -10%;
+}
+#livros h1 {
+  text-align: center;
+  margin-top: 30%;
+}
+#livros h2 {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family: "Cinzel Decorative", serif;
+  text-shadow: 4px 4px 6px#faa301;
+  font-size: 55px;
+  margin-bottom: 5%;
+}
+#livros h3 {
+  font-size: 30px;
+  margin-bottom: 2%;
+  
+}
+.livrosx h5 {
+  font-size: 30px;
+}
+.livrosy h5 {
+  font-size: 30px;
+}
+.contlivrosx {
+  display: flex;
+  align-items: last baseline;
+  justify-content: space-between ;
+  margin: 5%;
+
+}
+#livros img {
+  border: 10px solid #faa30170;
+}
+.contlivrosy {
+  display: flex;
+  align-items: last baseline;
+  justify-content: space-between;
+  margin: 5%;
+  padding-right: 32%;
+}
+
+#contato h1 {
+  font-size: 45px;
+}
+#contato {
+  background-color: rgba(75, 75, 75, 0.5) ;
+}
+footer {
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+footer p{
+  margin-top: 50px;
+}
